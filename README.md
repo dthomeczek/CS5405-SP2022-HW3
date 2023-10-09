@@ -1,2 +1,5 @@
-# CS5405-SP2022-HW3
-My solution for Spring 2022 CS5405 assignment #3 at Missouri S&amp;T
+# CS5405 Assignment #3
+
+The purpose of this assignment was to find the area of a quadrilateral given four points (8 inputs) from JavaFX labels or text boxes. The file name was required to be "Demo."
+
+This code was developed to run on Java JDK 8u321.
